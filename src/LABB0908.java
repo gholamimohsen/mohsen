@@ -10,18 +10,6 @@ public class LABB0908 {
         System.out.println( " Hej och Välkommen! ");
         System.out.println( " Vänligen mata in din nota, tack! " );
 
-        //boolean funka = true;
-        //int input;
-
-        //Scanner sc = new Scanner(System.in);
-
-        //float dricks;
-        //int input;
-        //boolean alltid = true;
-
-
-        //int input = scanner.nextInt();
-        //Scanner sc = new Scanner(System.in);
 
       try {
 
